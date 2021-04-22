@@ -17,11 +17,11 @@ Confidance is about the score of face detection.
 Keypoints are the other information about the face parameters.
 
 
-#requirements
+# requirements
 * pip install opencv-python
 * pip install mtcnn
 * pip install tensorflow
 * pip install matplotlib
 
-You can test and execute face detection with jupyter notebook.
-above notebook tested on ubuntu 20.0
+> You can test and execute face detection with jupyter notebook.
+> above notebook tested on ubuntu 20.0
