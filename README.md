@@ -14,9 +14,9 @@ As a result we will recive the following list from MTCNN()
     
 Box: will gives the values of pixels.
 
-Confidance is about the score of face detection.
+Confidance: is about the score of face detection.
 
-Keypoints are the other information about the face parameters.
+Keypoints: are the other information about the face parameters.
 
 
 # requirements
@@ -27,3 +27,5 @@ Keypoints are the other information about the face parameters.
 
 > You can test and execute face detection with jupyter notebook.
 > above notebook tested on ubuntu 20.0
+
+> You can test with your own image input and have a fun.
