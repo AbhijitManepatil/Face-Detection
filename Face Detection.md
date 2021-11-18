@@ -10,7 +10,7 @@
         'mouth_right': (331, 46)}}]
         
         
-> Box: will gives the values of pixels.
+> Box: will gives the values of pixels
 
 > Confidance is about the score of face detection.
 
