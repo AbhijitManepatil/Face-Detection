@@ -31,7 +31,7 @@ Keypoints: are the other information about the face parameters.
 
 >You can easily find the face detected and count the faceces with a 1min of code.
 
-> You can test with your own image input and have a fun.
+> You can test with your own image input and have a fun
 
 # Ref: 
 https://github.com/ipazc/mtcnn
