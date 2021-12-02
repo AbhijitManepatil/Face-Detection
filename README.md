@@ -13,11 +13,11 @@ As a result we will recive the following list from MTCNN()
     'mouth_left': (314, 45), 
     'mouth_right': (331, 46)}}]
     
-# Box: will gives the values of pixels.
+Box: will gives the values of pixels.
 
-# Confidance: is about the score of face detection.
+Confidance: is about the score of face detection.
 
-# Keypoints: are the other information about the face parameters.
+Keypoints: are the other information about the face parameters.
 
 
 # requirements
