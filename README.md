@@ -3,7 +3,7 @@ This project represent the number of people count from the image on the basis of
 
 
 
-As a result we will recive the following list from MTCNN()..........
+As a result we will recive the following list from MTCNN()
 
     [{'box': [305, 13, 33, 44],
     'confidence': 0.9999947547912598,
